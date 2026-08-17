@@ -1,0 +1,6 @@
+{
+  "name": "المهندس الذكي لكهرباء السيارات",
+  "description": "منصة شاملة لتشخيص وكهرباء السيارات، أكواد DTC، الحساسات والمشغلات، المخططات الكهربائية، والميكانيكي الذكي بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
